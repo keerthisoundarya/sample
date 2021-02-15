@@ -1,0 +1,5 @@
+module samplejava {
+	Public Static Void main() {
+		System.out.print("Hello World");
+	}
+}
